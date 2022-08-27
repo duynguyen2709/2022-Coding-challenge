@@ -15,6 +15,6 @@ public class HomeController {
 
     @GetMapping(value = "/v1/state")
     public ResponseEntity<?> monitorIncidentAndOfficer() {
-        return ResponseEntity.ok(trackingService.missedTransReports());
+        return ResponseEntity.ok(trackingService.findOfficerForIncident());
     }
 }
