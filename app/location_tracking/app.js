@@ -145,7 +145,7 @@ async function loop() {
 
 async function loadData() {
   try {
-    const response = await fetch('/api/v2/state')
+    const response = await fetch('/api/v1/state')
     console.log('response', response)
     if (response && response.data) {
       return response.data
