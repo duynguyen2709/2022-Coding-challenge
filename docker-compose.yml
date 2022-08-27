@@ -13,7 +13,9 @@ services:
       retries: 3
 
   event_consumer:
-    image: event_consumer:latest
+    build:
+      context: ./backend
+      dockerfile: ./Dockerfile
     container_name: "event_consumer"
     ports:
       - "8080:8080"
