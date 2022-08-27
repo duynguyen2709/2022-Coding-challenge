@@ -1,11 +1,11 @@
 package com.example.demo.Class;
 
-public class Offcier {
+public class Officer {
     private Integer id;
     private String badgeName;
     private Location loc;
 
-    public Offcier(Integer id, String badgeName, Location loc) {
+    public Officer(Integer id, String badgeName, Location loc) {
         this.id = id;
         this.badgeName = badgeName;
         this.loc = loc;
