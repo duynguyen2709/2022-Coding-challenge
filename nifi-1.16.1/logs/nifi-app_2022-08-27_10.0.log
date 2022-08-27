@@ -1,0 +1,157 @@
+2022-08-27 10:25:33,203 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:25:33,203 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:25:53,208 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:25:53,213 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:26:09,862 WARN [Timer-Driven Process Thread-10] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:26:10,495 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:26:13,218 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:26:13,218 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:26:33,219 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:26:33,229 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:26:53,234 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:26:53,234 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:27:09,874 WARN [Timer-Driven Process Thread-8] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:27:10,016 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 22 milliseconds (Stop-the-world time = 5 milliseconds, Clear Edit Logs time = 14 millis), max Transaction ID 37
+2022-08-27 10:27:10,529 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:27:13,238 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:27:13,238 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:27:33,240 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:27:33,241 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:27:53,242 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:27:53,242 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:28:09,885 WARN [Timer-Driven Process Thread-10] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:28:10,558 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:28:13,247 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:28:13,248 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:28:33,252 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:28:33,252 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:28:53,255 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:28:53,258 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:29:09,893 WARN [Timer-Driven Process Thread-8] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:29:10,044 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 27 milliseconds (Stop-the-world time = 9 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 37
+2022-08-27 10:29:10,601 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:29:13,266 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:29:13,266 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:29:33,267 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:29:33,268 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:29:53,274 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:29:53,275 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:30:09,906 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:30:10,639 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:30:13,287 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:30:13,289 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:30:33,296 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:30:33,297 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:30:53,299 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:30:53,300 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:31:09,915 WARN [Timer-Driven Process Thread-8] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:31:10,078 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 20 milliseconds (Stop-the-world time = 10 milliseconds, Clear Edit Logs time = 8 millis), max Transaction ID 37
+2022-08-27 10:31:10,670 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:31:13,302 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:31:13,302 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:31:33,305 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:31:33,307 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:31:53,311 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:31:53,311 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:32:09,929 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:32:10,718 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:32:13,312 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:32:13,312 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:32:33,315 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:32:33,318 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:32:53,321 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:32:53,323 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:33:09,932 WARN [Timer-Driven Process Thread-8] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:33:10,138 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 55 milliseconds (Stop-the-world time = 11 milliseconds, Clear Edit Logs time = 41 millis), max Transaction ID 37
+2022-08-27 10:33:10,754 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:33:13,324 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:33:13,324 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:33:33,329 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:33:33,331 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:33:53,332 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:33:53,332 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:34:09,943 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:34:10,804 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:34:13,333 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:34:13,333 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:34:33,336 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:34:33,337 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:34:53,340 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:34:53,340 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:35:09,951 WARN [Timer-Driven Process Thread-8] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:35:10,170 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 26 milliseconds (Stop-the-world time = 11 milliseconds, Clear Edit Logs time = 12 millis), max Transaction ID 37
+2022-08-27 10:35:10,841 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:35:13,344 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:35:13,345 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:35:33,345 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:35:33,345 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:35:53,347 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:35:53,347 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:36:09,957 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:36:10,881 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:36:13,351 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:36:13,351 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:36:33,356 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:36:33,370 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:36:53,373 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:36:53,373 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:37:09,960 WARN [Timer-Driven Process Thread-1] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:37:10,190 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 16 milliseconds (Stop-the-world time = 6 milliseconds, Clear Edit Logs time = 8 millis), max Transaction ID 37
+2022-08-27 10:37:10,908 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:37:13,376 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:37:13,376 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:37:33,379 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:37:33,379 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:37:53,380 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:37:53,381 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:38:09,971 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:38:10,944 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:38:13,382 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:38:13,382 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:38:33,383 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:38:33,384 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:38:53,384 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:38:53,384 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:39:09,979 WARN [Timer-Driven Process Thread-1] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:39:10,214 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 22 milliseconds (Stop-the-world time = 7 milliseconds, Clear Edit Logs time = 13 millis), max Transaction ID 37
+2022-08-27 10:39:10,972 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:39:13,388 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:39:13,390 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:39:33,390 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:39:33,391 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:39:53,396 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:39:53,396 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:40:09,986 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:40:11,090 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:40:13,400 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:40:13,400 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:40:33,402 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:40:33,403 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:40:53,405 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:40:53,406 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:41:09,995 WARN [Timer-Driven Process Thread-6] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:41:10,239 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 22 milliseconds (Stop-the-world time = 11 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 37
+2022-08-27 10:41:11,136 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:41:13,407 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:41:13,407 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:41:33,407 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:41:33,409 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:41:53,410 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:41:53,411 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:42:09,999 WARN [Timer-Driven Process Thread-4] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:42:11,204 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:42:13,412 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:42:13,412 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:42:33,413 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:42:33,414 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:42:53,416 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:42:53,416 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:43:10,023 WARN [Timer-Driven Process Thread-1] o.a.n.d.SystemDiagnosticsFactory Unable to determine Content Repository usage for container default due to java.io.IOException: System returned total space of the partition for default is zero byte. Nifi can not create a zero sized FileSystemRepository.
+2022-08-27 10:43:10,271 INFO [Write-Ahead Local State Provider Maintenance] org.wali.MinimalLockingWriteAheadLog org.wali.MinimalLockingWriteAheadLog@b32e983 checkpointed with 9 Records and 0 Swap Files in 28 milliseconds (Stop-the-world time = 16 milliseconds, Clear Edit Logs time = 7 millis), max Transaction ID 37
+2022-08-27 10:43:11,248 INFO [Cleanup Archive for default] o.a.n.c.repository.FileSystemRepository Successfully deleted 0 files (0 bytes) from archive
+2022-08-27 10:43:13,420 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:43:13,421 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:43:33,423 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:43:33,423 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
+2022-08-27 10:43:53,423 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Initiating checkpoint of FlowFile Repository
+2022-08-27 10:43:53,424 INFO [pool-7-thread-1] o.a.n.c.r.WriteAheadFlowFileRepository Successfully checkpointed FlowFile Repository with 0 records in 0 milliseconds
