@@ -34,8 +34,6 @@ public class TrackingService {
         LinkedHashMap<Integer, Integer> incidentMappingOfficer = getNearestOfficer(incidentsList, offcierList);
 
         // convert incidentMappingOfficer to response
-
-
         return null;
     }
 
@@ -44,6 +42,27 @@ public class TrackingService {
             List<Offcier> offcierList
     ) {
         LinkedHashMap<Integer, Integer> result = new LinkedHashMap<>();
+
+        incidentList.forEach(incident -> {
+            Integer incidentId = incident.getId();
+            Integer x_incident = incident.getLoc().getX();
+            Integer y_incident = incident.getLoc().getY();
+            offcierList.forEach(offcier -> {
+                Integer min_officerId = Integer.MAX_VALUE;
+                Double min_distance = Double.MAX_VALUE;
+
+                Integer officerID = offcier.getId();
+                Integer x_officer = offcier.getLoc().getX();
+                Integer y_officer = offcier.getLoc().getY();
+
+                Double distance = Math.sqrt(Math.abs(x_incident - x_officer) * Math.abs(x_incident - x_officer) + Math.abs(y_incident - y_officer) * Math.abs(y_incident - y_officer));
+                if (Double.compare(min_distance, distance) < 0) {
+                    min_distance = distance;
+                    min_officerId = officerID;
+                }
+                result.put(incidentId, officerID);
+            });
+        });
         return result;
     }
 }
