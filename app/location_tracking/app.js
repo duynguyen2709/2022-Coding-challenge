@@ -156,13 +156,17 @@ const sampleOfficers = [
 ];
 
 async function loadData() {
-  return {
-    data: {
-      incidents: sampleIncidents,
-      officers: sampleOfficers,
-    },
-    error: null,
-  };
+  try {
+    const response = fetch('http://127.0.0.1:8080/api/v1/state')
+    if (!response || response.error) {
+      throw new Error(response?.error?.message || 'An error occurred! Please try again later.')
+    } else {
+      return response.data
+    }
+  } catch (err) {
+    console.error(err)
+    alert(err)
+  }
 }
 
 start();
