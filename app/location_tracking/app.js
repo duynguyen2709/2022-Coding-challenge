@@ -122,7 +122,7 @@ function start() {
   });
 
   loop();
-  setInterval(loop, 5000);
+  setInterval(loop, 30000);
 }
 
 async function loop() {
@@ -157,12 +157,12 @@ const sampleOfficers = [
 
 async function loadData() {
   try {
-    const response = fetch('http://127.0.0.1:8080/api/v1/state')
-    if (!response || response.error) {
-      throw new Error(response?.error?.message || 'An error occurred! Please try again later.')
-    } else {
+    const response = await fetch('/api/v1/state')
+    console.log('response', response)
+    if (response && response.data) {
       return response.data
     }
+    throw new Error(response?.error?.message || 'An error occurred! Please try again later.')
   } catch (err) {
     console.error(err)
     alert(err)
