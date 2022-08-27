@@ -1,5 +1,6 @@
 package com.example.demo.Class;
 
+
 public class Location {
     private Integer x ;
     private Integer y;
