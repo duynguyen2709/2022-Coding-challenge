@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-hadoop-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-service-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-hadoop-dbcp-service-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-pool2-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-dbcp2-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-kerberos-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-dbcp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

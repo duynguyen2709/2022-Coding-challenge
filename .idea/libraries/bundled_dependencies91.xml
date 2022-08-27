@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies91">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/websocket-api-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-websocket-services-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-http-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/websocket-server-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-io-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-client-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/websocket-common-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-websocket-services-jetty-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/websocket-servlet-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-util-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-websocket-services-jetty-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/websocket-client-9.4.46.v20220331.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

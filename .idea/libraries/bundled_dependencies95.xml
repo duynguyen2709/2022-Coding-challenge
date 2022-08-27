@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies95">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-console-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-jmx-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-ant-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-groovyx-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-servlet-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-dateutil-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ant-launcher-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ivy-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-swing-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/qdox-1.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-templates-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-docgenerator-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-macro-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ant-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-groovysh-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ant-antlr-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-sql-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-cli-picocli-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-jsr223-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-groovydoc-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jline-2.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-xml-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-json-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-cli-commons-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-nio-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/picocli-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-groovyx-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-datetime-2.5.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

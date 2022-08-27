@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ion-java-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/aws-java-sdk-s3-1.12.182.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/joda-time-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jmespath-java-1.12.182.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-aws-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/aws-java-sdk-kms-1.12.182.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/aws-java-sdk-core-1.12.182.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-dataformat-cbor-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-aws-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpcore-4.4.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-aop-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/kotlin-stdlib-1.6.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-context-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-hashicorp-vault-parameter-value-provider-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-beans-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-expression-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/kotlin-stdlib-common-1.6.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-core-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-web-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/okio-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-vault-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-jcl-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/okhttp-4.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-vault-core-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hashicorp-vault-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-stateless-api-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

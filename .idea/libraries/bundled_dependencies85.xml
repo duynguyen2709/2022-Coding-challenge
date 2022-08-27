@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies85">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-cda-ihe-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-cda-consol-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-emf-runtime-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/org.eclipse.emf.common-2.8.0.v20120606-0717.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/org.eclipse.emf.ecore.xmi-2.8.0.v20120606-0717.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/org.eclipse.emf.ecore-2.8.0.v20120606-0717.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-cda-hitsp-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-jexl3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-hl7-vocab-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-eclipse-ocl-3.1.0.v20110913-1213.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-cda-ccd-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/java-2.0.17-v201004271640.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-hl7-datatypes-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-hl7-rim-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-cda-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-oht-mdht-uml-cda-cdt-1.2.0.201212201425.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-ccda-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ipf-eclipse-ocl-ecore-3.1.1.v20110823-1646.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ccda-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

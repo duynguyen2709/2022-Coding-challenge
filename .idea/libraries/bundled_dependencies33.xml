@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies33">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-snmp-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-snmp-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-snmp-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-snmp-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-snmp-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-snmp-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/snmp4j-2.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-snmp-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

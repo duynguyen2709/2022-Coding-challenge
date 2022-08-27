@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies38">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-record-sink-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jakarta.mail-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-record-sink-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-record-sink-service-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-record-sink-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-service-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-record-sink-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jakarta.activation-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-record-sink-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies58">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-expression-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-core-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-aop-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-spring-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-jcl-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-context-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-beans-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-spring-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

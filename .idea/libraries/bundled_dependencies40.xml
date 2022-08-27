@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies40">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-common-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-event-put-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/splunk-1.6.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-event-transport-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-classes-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-splunk-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-buffer-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-splunk-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

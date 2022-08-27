@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies46">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/http2-client-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/http2-http-client-transport-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-client-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-http-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/http2-common-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-alpn-client-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-record-path-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-native-epoll-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/caffeine-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-classes-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/stax2-api-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-solr-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/gson-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/zookeeper-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-native-unix-common-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-kerberos-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-alpn-openjdk8-client-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-alpn-java-client-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-uuid5-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/snappy-java-1.1.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/woodstox-core-asl-4.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-io-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-qual-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpmime-4.5.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpcore-4.4.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/http2-hpack-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jetty-util-9.4.46.v20220331.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-classes-epoll-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/solr-solrj-8.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/zookeeper-jute-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-buffer-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-solr-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-common-4.1.74.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

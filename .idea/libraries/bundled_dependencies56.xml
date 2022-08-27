@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies56">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-json-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/mongodb-driver-legacy-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bson-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/mongodb-driver-sync-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-mongodb-client-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-client-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/mongodb-driver-core-4.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

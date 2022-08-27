@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies77">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-update-attribute-model-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/caffeine-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-qual-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-update-attribute-processor-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-update-attribute-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-xml-processing-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

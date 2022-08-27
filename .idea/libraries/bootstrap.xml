@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="bootstrap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/logback-core-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-parameter-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/commons-text-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-security-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/bcpkix-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/kotlin-stdlib-common-1.6.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-property-protection-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/bcutil-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jna-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-uuid5-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/logback-classic-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-bootstrap-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-single-user-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/json-path-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/bcprov-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/kotlin-stdlib-1.6.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jakarta.mail-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jna-platform-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/bytes-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-security-utils-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/okhttp-4.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-xml-processing-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-properties-loader-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/json-smart-2.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-property-protection-loader-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jakarta.mail-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-expression-language-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-property-encryptor-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/bcrypt-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/accessors-smart-2.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-bootstrap-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/nifi-flow-encryptor-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/asm-9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/bootstrap/okio-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

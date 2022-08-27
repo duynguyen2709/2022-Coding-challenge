@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2022-Coding-challenge.iml" filepath="$PROJECT_DIR$/.idea/2022-Coding-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-error-1.16.1.war/nifi-web-error-1.16.1.war.iml" filepath="$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-error-1.16.1.war/nifi-web-error-1.16.1.war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-ui-1.16.1.war/nifi-web-ui-1.16.1.war.iml" filepath="$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-ui-1.16.1.war/nifi-web-ui-1.16.1.war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-ui-1.16.1.war/webapp/webapp.iml" filepath="$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-ui-1.16.1.war/webapp/webapp.iml" />
+    </modules>
+  </component>
+</project>

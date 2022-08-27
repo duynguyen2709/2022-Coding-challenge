@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="java11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/jakarta.activation-api-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/jaxb-runtime-2.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/istack-commons-runtime-3.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/txw2-2.3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/jakarta.xml.bind-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/java11/javax.annotation-api-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-single-user-iaa-providers-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-xml-processing-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-single-user-iaa-providers-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-single-user-iaa-providers-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bytes-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-single-user-iaa-providers-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-single-user-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-single-user-iaa-providers-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bcrypt-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-single-user-iaa-providers-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-single-user-iaa-providers-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

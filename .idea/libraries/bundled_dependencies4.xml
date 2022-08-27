@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-aop-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-pool2-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-tx-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-data-commons-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-data-redis-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-expression-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-oxm-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-data-keyvalue-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-jcl-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jedis-3.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-context-support-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-core-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-beans-5.3.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-redis-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-redis-service-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spring-context-5.3.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

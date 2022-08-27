@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies47">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-socks-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-buffer-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-module-afterburner-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/LatencyUtils-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-qual-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-native-epoll-4.1.74.Final-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/reactor-core-3.4.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-http2-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/reactor-netty-core-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/azure-core-http-netty-1.11.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-azure-services-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/azure-core-1.26.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-classes-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-dns-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-classes-kqueue-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/azure-storage-8.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-dataformat-xml-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-dns-native-macos-4.1.74.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-native-kqueue-4.1.74.Final-osx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-http-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/HdrHistogram-2.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-core-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-proxy-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/guava-31.0.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/azure-cosmos-4.26.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/azure-keyvault-core-1.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-native-unix-common-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-dns-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-classes-epoll-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-boringssl-static-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/micrometer-core-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/woodstox-core-6.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/reactor-netty-http-1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-common-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-dns-classes-macos-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-datatype-jsr310-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-azure-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-4.1.74.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

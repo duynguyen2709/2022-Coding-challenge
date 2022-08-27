@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies42">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jolt-core-0.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-proxy-configuration-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/json-utils-0.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-standard-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-proxy-configuration-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-proxy-configuration-api-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

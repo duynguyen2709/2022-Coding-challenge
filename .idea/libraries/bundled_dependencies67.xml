@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies67">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-pgp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-pgp-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-pgp-service-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

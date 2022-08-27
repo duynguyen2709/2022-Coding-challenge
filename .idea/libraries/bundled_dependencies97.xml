@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies97">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-riemann-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/riemann-java-client-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-riemann-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-riemann-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-riemann-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-3.10.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-riemann-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-riemann-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-riemann-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/protobuf-java-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

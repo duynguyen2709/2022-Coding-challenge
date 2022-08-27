@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-stateless-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-nar-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/logback-core-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/logback-classic-1.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-server-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/jcl-over-slf4j-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/jetty-schemas-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-property-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/log4j-over-slf4j-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-properties-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/jul-to-slf4j-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-runtime-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-framework-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/lib/nifi-stateless-bootstrap-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

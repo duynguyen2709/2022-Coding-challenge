@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.inject-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-reporting-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jersey-guava-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/hk2-locator-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/hk2-api-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-metrics-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.json-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-core-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/hk2-utils-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-ambari-reporting-task-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jersey-client-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-jvm-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jersey-common-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.json-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-ambari-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/aopalliance-repackaged-2.4.0-b25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

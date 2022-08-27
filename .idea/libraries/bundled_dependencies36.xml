@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies36">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-load-distribution-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-lookup-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-dbcp-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-record-serialization-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-kerberos-user-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-kerberos-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-record-sink-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-kerberos-credentials-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-http-context-map-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-schema-registry-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-distributed-cache-client-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-proxy-configuration-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-rules-engine-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-ssl-context-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-oauth2-provider-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-hbase-client-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-record-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-standard-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-utils-api-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

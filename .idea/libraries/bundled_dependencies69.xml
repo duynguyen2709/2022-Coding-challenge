@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies69">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-x86asm-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.json-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-jvm-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jffi-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-posix-3.0.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/java-dogstatsd-client-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpcore-4.4.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/fluent-hc-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-tree-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-core-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.json-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-datadog-1.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jffi-1.2.15-native.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-ffi-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-datadog-reporting-task-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/aopalliance-repackaged-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-constants-0.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-commons-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-util-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/hk2-api-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/hk2-utils-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/hk2-locator-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-unixsocket-0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jersey-common-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-enxio-0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jersey-client-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-analysis-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.inject-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-metrics-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-datadog-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jersey-guava-2.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

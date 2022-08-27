@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies53">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-jms-cf-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-jms-cf-service-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-jms-cf-service-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.jms-api-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/joda-time-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/avro-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/snappy-java-1.1.8.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/paranamer-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/nifi-xml-processing-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-standard-content-viewer-1.16.1.war/webapp/WEB-INF/lib/xz-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

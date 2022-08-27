@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/lucene-queryparser-8.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/lucene-sandbox-8.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-property-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-utils-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-property-protection-loader-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-repository-encryption-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-persistent-provenance-repository-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/lucene-core-8.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-schema-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bcrypt-0.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-volatile-provenance-repository-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-data-provenance-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bcutil-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-kms-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bcprov-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bytes-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bcpkix-jdk15on-1.70.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/lucene-queries-8.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/lucene-backward-codecs-8.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-properties-loader-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-property-protection-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-provenance-repository-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/lucene-analyzers-common-8.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

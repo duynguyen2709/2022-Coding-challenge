@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies75">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.json-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javax.json-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpmime-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-slack-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/httpcore-4.4.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-slack-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-codec-1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

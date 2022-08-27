@@ -1,0 +1,65 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies83">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jruby-complete-9.3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-datetime-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ant-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-nio-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-qual-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-xml-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-scripting-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-docgenerator-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-metrics-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-groovysh-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-cli-picocli-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-net-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-json-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-rules-engine-service-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-dateutil-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jython-shaded-2.7.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jffi-1.2.17-native.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/clojure-1.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-ant-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/luaj-jse-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/javaparser-core-3.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/caffeine-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/picocli-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-groovydoc-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ant-antlr-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-sql-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/spec.alpha-0.2.176.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-jvm-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-jsr223-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/core.specs.alpha-0.2.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-swing-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ant-launcher-1.10.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-servlet-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-core-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-macro-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/xercesImpl-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-jmx-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/qdox-1.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-templates-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-astbuilder-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-uuid5-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jline-2.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/ivy-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/groovy-console-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jffi-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-scripting-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-record-path-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

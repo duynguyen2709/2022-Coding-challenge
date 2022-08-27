@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies72">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/caffeine-2.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-flowfile-packager-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-kerberos-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-hadoop-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-qual-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-text-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-hadoop-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-hdfs-processors-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

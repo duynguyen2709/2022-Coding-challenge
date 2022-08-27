@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies48">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/kotlin-stdlib-common-1.6.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/okhttp-4.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-oauth2-provider-service-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/kotlin-stdlib-1.6.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/okio-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-oauth2-provider-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/annotations-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

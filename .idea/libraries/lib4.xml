@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-content-viewer-1.16.1.war/webapp/WEB-INF/lib/tika-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/jetty/nifi-web-content-viewer-1.16.1.war/webapp/WEB-INF/lib/icu4j-68.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

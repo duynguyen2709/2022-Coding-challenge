@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/animal-sniffer-annotations-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/proto-google-common-protos-1.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-http-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-protobuf-lite-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-stub-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-boringssl-static-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-common-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-classes-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/perfmark-api-0.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-compat-qual-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-api-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/protobuf-java-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-context-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-netty-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-core-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-http2-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-buffer-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/annotations-4.1.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/guava-29.0-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-socks-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-grpc-processors-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/grpc-protobuf-1.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-grpc-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-proxy-4.1.74.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

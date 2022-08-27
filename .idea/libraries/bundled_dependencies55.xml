@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies55">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cybersecurity-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cybersecurity-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/tlsh-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cybersecurity-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/java-string-similarity-0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cybersecurity-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/java-spamsum-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cybersecurity-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-cybersecurity-processors-1.16.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

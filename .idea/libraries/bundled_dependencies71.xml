@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies71">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jffi-1.2.16-native.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/metrics-core-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-resolver-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/cassandra-driver-core-3.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-x86asm-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-common-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-handler-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-util-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-transport-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/guava-19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-tcnative-classes-2.0.48.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-analysis-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-constants-0.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-buffer-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-tree-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/netty-codec-4.1.74.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jffi-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-posix-3.0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-cassandra-services-api-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/asm-commons-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-cassandra-services-api-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jnr-ffi-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

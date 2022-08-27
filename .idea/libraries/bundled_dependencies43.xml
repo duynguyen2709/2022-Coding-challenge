@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="bundled-dependencies43">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/mongodb-driver-core-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/bson-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/xz-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-mongodb-services-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-security-socket-ssl-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-csv-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/avro-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/paranamer-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/caffeine-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/mongodb-driver-legacy-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-json-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-standard-record-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/error_prone_annotations-2.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/checker-qual-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-text-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/commons-io-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/nifi-avro-record-utils-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/mongodb-driver-sync-4.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/nifi-1.16.1/work/nar/extensions/nifi-mongodb-services-nar-1.16.1.nar-unpacked/NAR-INF/bundled-dependencies/snappy-java-1.1.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
