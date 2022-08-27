@@ -60,7 +60,7 @@ public class TrackingService {
                     min_distance = distance;
                     min_officerId = officerID;
                 }
-                result.put(incidentId, officerID);
+                result.put(incidentId, min_officerId);
             });
         });
         return result;
