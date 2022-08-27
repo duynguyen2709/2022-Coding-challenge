@@ -47,9 +47,10 @@ public class TrackingService {
             Integer incidentId = incident.getId();
             Integer x_incident = incident.getLoc().getX();
             Integer y_incident = incident.getLoc().getY();
+
             offcierList.forEach(offcier -> {
-                Integer min_officerId = Integer.MAX_VALUE;
                 Double min_distance = Double.MAX_VALUE;
+                Integer min_officerId = Integer.MAX_VALUE;
 
                 Integer officerID = offcier.getId();
                 Integer x_officer = offcier.getLoc().getX();
@@ -59,8 +60,8 @@ public class TrackingService {
                 if (Double.compare(min_distance, distance) < 0) {
                     min_distance = distance;
                     min_officerId = officerID;
+                    result.put(incidentId, min_officerId);
                 }
-                result.put(incidentId, min_officerId);
             });
         });
         return result;
