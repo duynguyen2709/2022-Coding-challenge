@@ -1,5 +1,12 @@
 package com.example.demo.Class;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
 public class Incident {
     private Integer id;
     private String codeName;
@@ -11,37 +18,5 @@ public class Incident {
         this.codeName = codeName;
         this.loc = loc;
         this.officerId = null;
-    }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getCodeName() {
-        return codeName;
-    }
-
-    public void setCodeName(String codeName) {
-        this.codeName = codeName;
-    }
-
-    public Location getLoc() {
-        return loc;
-    }
-
-    public void setLoc(Location loc) {
-        this.loc = loc;
-    }
-
-    public Integer getOfficerId() {
-        return officerId;
-    }
-
-    public void setOfficerId(Integer officerId) {
-        this.officerId = officerId;
     }
 }

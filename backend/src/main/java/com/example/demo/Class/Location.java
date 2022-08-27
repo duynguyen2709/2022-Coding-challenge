@@ -1,6 +1,12 @@
 package com.example.demo.Class;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
+@Getter
+@Setter
+@NoArgsConstructor
 public class Location {
     private Integer x ;
     private Integer y;
@@ -8,21 +14,5 @@ public class Location {
     public Location(Integer x, Integer y ) {
         this.x = x;
         this.y = y ;
-    }
-
-    public Integer getX() {
-        return x;
-    }
-
-    public void setX(Integer x) {
-        this.x = x;
-    }
-
-    public Integer getY() {
-        return y;
-    }
-
-    public void setY(Integer y) {
-        this.y = y;
     }
 }
